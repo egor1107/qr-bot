@@ -1,0 +1,7 @@
+aiogram
+segno
+opencv-python-headless
+numpy
+requests
+Pillow
+geopy
